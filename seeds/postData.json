@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Setting Up a Basic Cron Job on a Linux Server",
+    "content": "Recently, I had to set up a scheduled task on a server, which is a little intimidating and scary the first time around, so here's a quick article about the steps for setting up a basic cron job. In this article, we'll create a simple PHP script to send out an email once per day.",
+    "user_id": 1
+  },
+  {
+    "title": "An Introduction to GraphQL",
+    "content": "As web and mobile applications become more mature and complex, software engineers invent clever new ways of improving the interaction between client and server within an application. ",
+    "user_id": 2
+  },
+  {
+    "title": "Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript",
+    "content": "In the early days of the internet, websites often consisted of static data in an HTML page. But now that web applications have become more interactive and dynamic, it has become increasingly necessary to do intensive operations like make external network requests to retrieve API data. To handle these operations in JavaScript, a developer must use asynchronous programming techniques.",
+    "user_id": 1
+  }
+]

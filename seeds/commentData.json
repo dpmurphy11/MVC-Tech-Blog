@@ -1,0 +1,17 @@
+[
+    {
+      "comment_text": "Cron is awsome",
+      "user_id": 2, 
+      "post_id": 2
+    },
+    {
+      "comment_text": "Cool! Where can I find more?",
+      "user_id": 1,
+      "post_id": 2
+    },
+    {
+      "comment_text": "Didn't understand this at all",
+      "user_id": 2,
+      "post_id": 3
+    }
+]
